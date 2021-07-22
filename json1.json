@@ -1,12 +1,12 @@
 {
     "if_title_Time_End": "Time's End",
-    "target_price_Time_End": 7,
+    "target_price_Time_End": 10,
     "if_title_NARAKA": "NARAKA HERO",
-    "target_price_NARAKA": 24,
+    "target_price_NARAKA": 22,
     "if_title_Orlinski": "Binance 4th anniversary X Orlinski",
-    "target_price_Orlinski": 12,
+    "target_price_Orlinski": 11,
     "if_title_Dream": "Dream Card Special Edition",
-    "target_price_Dream": 17,
+    "target_price_Dream": 15,
     "if_title_BunnyPark": "BunnyPark Mystery Box Series",
     "target_price_BunnyPark": 30,
     "if_title_Legends": "Return of Legends S1",
@@ -18,6 +18,6 @@
     "if_title_2": "All Stars Mystery Box - Batch 2/3",
     "target_price_2": 9,
     "if_title_1": "tokidoki X Binance NFT Mystery Box Series 1",
-    "target_price_1": 17
+    "target_price_1": 16
 
 }

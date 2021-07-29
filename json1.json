@@ -3,12 +3,12 @@
       {
          "id":0,
           "name": "MOBOX Collectible MOMOs",
-          "value": 20
+          "value": 23
        },
       {
          "id":1,
           "name": "Time's End",
-          "value": 14
+          "value": 15
        },
       {
          "id":2,
@@ -23,12 +23,12 @@
        {
          "id":4,
           "name": "Dream Card Special Edition",
-          "value": 15
+          "value": 17
        },
      
        {"id":5,
           "name": "BunnyPark Mystery Box Series",
-          "value": 20
+          "value": 30
        },
      
        {"id":6,
@@ -38,12 +38,12 @@
      
        {"id":7,
           "name": "OG's New Frontier",
-     "value": 30
+     "value": 40
        },
      
        {"id":8,
          "name": "All Stars Mystery Box - Batch 3/3",
-      "value": 10
+      "value": 9
        },
      
        {"id":9,

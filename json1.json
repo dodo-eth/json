@@ -48,12 +48,17 @@
      
        {"id":9,
           "name": "All Stars Mystery Box - Batch 2/3",
-      "value": 10
+          "value": 10
        },
      
        {"id":10,
           "name": "tokidoki X Binance NFT Mystery Box Series 1",
-      "value": 18
+           "value": 18
+       },
+     
+       {"id":11,
+          "name": "Midsummer with Alice",
+           "value": 9
        }
     ]
  }

@@ -3,7 +3,7 @@
       {
          "id":0,
           "name": "MOBOX Collectible MOMOs",
-          "value": 20
+          "value": 26
        },
       {
          "id":1,
@@ -18,12 +18,12 @@
      {
          "id":3,
           "name": "Binance 4th anniversary X Orlinski",
-          "value": 10
+          "value": 11
        },
        {
          "id":4,
           "name": "Dream Card Special Edition",
-          "value": 16
+          "value": 17
        },
      
        {"id":5,
@@ -58,7 +58,7 @@
      
        {"id":11,
           "name": "Midsummer with Alice",
-           "value": 10
+           "value": 14
        }
     ]
  }

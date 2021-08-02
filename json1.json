@@ -59,6 +59,12 @@
        {"id":11,
           "name": "Midsummer with Alice",
            "value": 14
+       },
+     
+       {"id":12,
+          "name": "Seascape Zombie Fighter Mystery Box",
+           "value": 18
        }
+       
     ]
  }

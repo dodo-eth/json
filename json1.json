@@ -64,7 +64,11 @@
        {"id":12,
           "name": "Seascape Zombie Fighter Mystery Box",
            "value": 14
-       }
+       },
+       {"id":13,
+         "name": "Nyammy Treats: The Nyan Sum Cards",
+          "value": 20
+      }
        
     ]
  }

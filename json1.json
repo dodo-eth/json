@@ -76,7 +76,11 @@
       {"id":15,
          "name": "The Paradox Forge",
           "value": 14
-      }     
+      },
+      {"id":16,
+         "name": "Fara Binancian",
+          "value": 40
+      }      
 
        
     ]

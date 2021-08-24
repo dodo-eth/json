@@ -38,7 +38,7 @@
      
        {"id":7,
           "name": "OG's New Frontier",
-     "value": 51
+     "value": 54
        },
      
        {"id":8,
@@ -58,7 +58,7 @@
      
        {"id":11,
           "name": "Midsummer with Alice",
-           "value": 33
+           "value": 44
        },
      
        {"id":12,
@@ -67,11 +67,11 @@
        },
        {"id":13,
          "name": "Nyammy Treats: The Nyan Sum Cards",
-          "value": 10
+          "value": 11
       },
       {"id":14,
          "name": "Baby Polymons",
-          "value": 70
+          "value": 73
       },
       {"id":15,
          "name": "The Paradox Forge",
@@ -79,7 +79,7 @@
       },
       {"id":16,
          "name": "Fara Binancian",
-          "value": 80
+          "value": 72
       }      
 
        

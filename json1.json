@@ -3,7 +3,7 @@
       {
          "id":0,
           "name": "MOBOX Collectible MOMOs",
-          "value": 29
+          "value": 120
        },
       {
          "id":1,
@@ -23,17 +23,17 @@
        {
          "id":4,
           "name": "Dream Card Special Edition",
-          "value": 16
+          "value": 40
        },
      
        {"id":5,
           "name": "BunnyPark Mystery Box Series",
-          "value": 55
+          "value": 150
        },
      
        {"id":6,
           "name": "Return of Legends S1",
-     "value": 36
+     "value": 40
        },
      
        {"id":7,
@@ -43,12 +43,12 @@
      
        {"id":8,
          "name": "All Stars Mystery Box - Batch 3/3",
-      "value": 10
+      "value": 12
        },
      
        {"id":9,
           "name": "All Stars Mystery Box - Batch 2/3",
-          "value": 11
+          "value": 13
        },
      
        {"id":10,
@@ -58,7 +58,7 @@
      
        {"id":11,
           "name": "Midsummer with Alice",
-           "value": 26
+           "value": 30
        },
      
        {"id":12,
@@ -67,11 +67,11 @@
        },
        {"id":13,
          "name": "Nyammy Treats: The Nyan Sum Cards",
-          "value": 11
+          "value": 15
       },
       {"id":14,
          "name": "Baby Polymons",
-          "value": 73
+          "value": 75
       },
       {"id":15,
          "name": "The Paradox Forge",

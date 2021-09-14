@@ -87,8 +87,20 @@
       },
       {"id":18,
          "name": "Maye Musk Mystery Box",
+          "value": 100
+      },
+      {"id":19,
+         "name": "ZOO-Crypto World Artifacts",
+          "value": 50
+      },
+      {"id":20,
+         "name": "The Crypto You",
           "value": 120
-      }      
+      },
+      {"id":21,
+         "name": "LFW Mystery Box",
+          "value": 50
+      }        
        
     ]
  }
